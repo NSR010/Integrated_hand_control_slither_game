@@ -58,6 +58,7 @@ pip install opencv-python mediapipe pygame
 ---
 
 
-## 👀 Visitor Count
-![Visitor Count](https://count.getloli.com/get/@NSR010.Integrated_hand_control_slither_game?theme=rule34)
+# Integrated Hand-Controlled Slither Game
+![Visitors](https://count.getloli.com/get/@NSR010.Integrated_hand_control_slither_game?default)
+
 
